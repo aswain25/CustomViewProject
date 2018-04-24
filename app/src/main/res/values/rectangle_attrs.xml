@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyRectangle">
+        <attr name="fillColor" format="color"/>
+    </declare-styleable>
+    <declare-styleable name="CheckeredEditText">
+        <attr name="fillColor2" format="color"/>
+    </declare-styleable>
+</resources>
